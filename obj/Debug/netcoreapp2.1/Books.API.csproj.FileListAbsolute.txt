@@ -1,0 +1,15 @@
+C:\Users\p.cordeiro.de.souza\source\repos\Books\Books.API\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\p.cordeiro.de.souza\source\repos\Books\Books.API\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\p.cordeiro.de.souza\source\repos\Books\Books.API\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\p.cordeiro.de.souza\source\repos\Books\Books.API\bin\Debug\netcoreapp2.1\Books.API.deps.json
+C:\Users\p.cordeiro.de.souza\source\repos\Books\Books.API\bin\Debug\netcoreapp2.1\Books.API.runtimeconfig.json
+C:\Users\p.cordeiro.de.souza\source\repos\Books\Books.API\bin\Debug\netcoreapp2.1\Books.API.runtimeconfig.dev.json
+C:\Users\p.cordeiro.de.souza\source\repos\Books\Books.API\bin\Debug\netcoreapp2.1\Books.API.dll
+C:\Users\p.cordeiro.de.souza\source\repos\Books\Books.API\bin\Debug\netcoreapp2.1\Books.API.pdb
+C:\Users\p.cordeiro.de.souza\source\repos\Books\Books.API\obj\Debug\netcoreapp2.1\Books.API.RazorAssemblyInfo.cache
+C:\Users\p.cordeiro.de.souza\source\repos\Books\Books.API\obj\Debug\netcoreapp2.1\Books.API.RazorAssemblyInfo.cs
+C:\Users\p.cordeiro.de.souza\source\repos\Books\Books.API\obj\Debug\netcoreapp2.1\Books.API.AssemblyInfoInputs.cache
+C:\Users\p.cordeiro.de.souza\source\repos\Books\Books.API\obj\Debug\netcoreapp2.1\Books.API.AssemblyInfo.cs
+C:\Users\p.cordeiro.de.souza\source\repos\Books\Books.API\obj\Debug\netcoreapp2.1\Books.API.RazorTargetAssemblyInfo.cache
+C:\Users\p.cordeiro.de.souza\source\repos\Books\Books.API\obj\Debug\netcoreapp2.1\Books.API.dll
+C:\Users\p.cordeiro.de.souza\source\repos\Books\Books.API\obj\Debug\netcoreapp2.1\Books.API.pdb
