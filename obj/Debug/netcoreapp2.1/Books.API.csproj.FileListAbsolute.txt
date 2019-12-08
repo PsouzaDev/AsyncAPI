@@ -13,3 +13,5 @@ C:\Users\p.cordeiro.de.souza\source\repos\Books\Books.API\obj\Debug\netcoreapp2.
 C:\Users\p.cordeiro.de.souza\source\repos\Books\Books.API\obj\Debug\netcoreapp2.1\Books.API.RazorTargetAssemblyInfo.cache
 C:\Users\p.cordeiro.de.souza\source\repos\Books\Books.API\obj\Debug\netcoreapp2.1\Books.API.dll
 C:\Users\p.cordeiro.de.souza\source\repos\Books\Books.API\obj\Debug\netcoreapp2.1\Books.API.pdb
+C:\Users\p.cordeiro.de.souza\source\repos\Books\Books.API\obj\Debug\netcoreapp2.1\Books.API.csprojAssemblyReference.cache
+C:\Users\p.cordeiro.de.souza\source\repos\Books\Books.API\bin\Debug\netcoreapp2.1\libman.json
